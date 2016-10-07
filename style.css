@@ -531,8 +531,16 @@ pre .xml .cdata {
   opacity: .5;
 }
 
-hljs-keyword {
-  color: #66d9ef;
+.hljs-keyword {
+  color: #f72671;
+}
+
+.hljs-string {
+  color: #ffe792;
+}
+
+.hljs-number {
+  color: #ae81ff;
 }
 
 .hljs-meta {
