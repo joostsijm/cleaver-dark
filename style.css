@@ -409,9 +409,10 @@ table th {
 code {
   padding: .1em .35em;
   font-family: 'Fira Mono';
-  color: #fafafa;
+  color: #f9f9f9;
   border-radius: 3px;
   font-size: 150%;
+  background-color: #191919;
 }
 
 pre code {
@@ -421,6 +422,7 @@ pre code {
   font-weight: 400;
   overflow-y: hidden;
   color: #f9f9f9;
+  background-color: #191919;
 }
 
 pre .tag,
