@@ -539,6 +539,15 @@ pre .xml .cdata {
   color: #ffe792;
 }
 
+.hljs-symbol {
+  color: #66d9ef;
+}
+
+.hljs-function {
+  color: #6ccab8;
+}
+
+
 .hljs-number {
   color: #ae81ff;
 }
