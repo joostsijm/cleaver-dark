@@ -421,7 +421,7 @@ pre code {
   font-family: 'Fira Mono';
   font-weight: 400;
   overflow-y: hidden;
-  background: #272822;
+  background: #f9f9f9;
 }
 
 pre .tag,
@@ -436,10 +436,6 @@ pre .clojure .built_in,
 pre .nginx .title,
 pre .tex .special {
   color: #f72671;
-}
-
-pre code {
-  color: #75715e;
 }
 
 pre code .constant {
