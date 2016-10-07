@@ -412,7 +412,7 @@ code {
   color: #fafafa;
   background-color: #000000;
   border-radius: 3px;
-  font-size: 175%;
+  font-size: 150%;
 }
 
 pre code {
@@ -422,7 +422,6 @@ pre code {
   font-weight: 400;
   overflow-y: hidden;
   background: #272822;
-  font-size: +4;
 }
 
 pre .tag,
