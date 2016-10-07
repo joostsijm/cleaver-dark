@@ -531,12 +531,12 @@ pre .xml .cdata {
   opacity: .5;
 }
 
-pre .hljs-keyword {
+hljs-keyword {
   color: #66d9ef;
 }
 
-pre .hljs-meta {
-  color: #66d9ef;
+.hljs-meta {
+  color: #16d9ef;
 }
 
 /* Responsiveness */
