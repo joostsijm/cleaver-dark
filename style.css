@@ -435,7 +435,7 @@ pre .lisp .title,
 pre .clojure .built_in,
 pre .nginx .title,
 pre .tex .special {
-  color: #f92672;
+  color: #f72671;
 }
 
 pre code {
@@ -518,6 +518,7 @@ pre .tex .special,
 pre .request,
 pre .status {
   /* font-weight: 600; */
+  color: #ffe792;
 }
 
 pre .coffeescript .javascript,
