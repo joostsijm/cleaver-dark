@@ -421,7 +421,8 @@ pre code {
   font-family: 'Fira Mono';
   font-weight: 400;
   overflow-y: hidden;
-  background: #000000;
+  background: #272822;
+  font-size: +4;
 }
 
 pre .tag,
@@ -439,7 +440,7 @@ pre .tex .special {
 }
 
 pre code {
-  color: #ffffff;
+  color: #75715e;
 }
 
 pre code .constant {
