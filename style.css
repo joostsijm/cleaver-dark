@@ -531,6 +531,10 @@ pre .xml .cdata {
   opacity: .5;
 }
 
+pre .hjls-meta {
+  color: #66d9ef;
+}
+
 /* Responsiveness */
 
 @media (max-width: 850px) {
